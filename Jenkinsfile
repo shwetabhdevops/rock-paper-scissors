@@ -42,7 +42,7 @@ node {
    }
 	
    stage('Static Code Analysis'){
-       build job: 'static-code-analysis'
+       echo "Need to write static code analysis'
    }
 	
 
