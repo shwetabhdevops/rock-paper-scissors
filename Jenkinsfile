@@ -42,7 +42,7 @@ node {
    }
 	
    stage('Static Code Analysis'){
-       echo "Need to write static code analysis'
+       echo "Need to write static code analysis"
    }
 	
 
